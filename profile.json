@@ -1,0 +1,22 @@
+{
+    "did": "did:plc:big6e357j2bbrlkyms5vjkgf",
+    "handle": "littlebitstudios.com",
+    "displayName": "LittleBit",
+    "avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:big6e357j2bbrlkyms5vjkgf/bafkreife7cstwkwjxgau6weo5xusyfnacklhhq25lxfrhmr4csuphnac4i@jpeg",
+    "associated": {
+        "lists": 8,
+        "feedgens": 0,
+        "starterPacks": 3,
+        "labeler": false,
+        "chat": {
+            "allowIncoming": "following"
+        }
+    },
+    "labels": [],
+    "createdAt": "2023-10-09T21:18:23.577Z",
+    "description": "I play games and mess with computers.\nDeveloper of @skyalertbot.bsky.social\nProfile picture by @shayshayshamera.bsky.social\nLeader of Oversplatters, a dead Splatoon team\nFind me everywhere: https://littlebit670.link",
+    "indexedAt": "2024-11-06T01:45:11.282Z",
+    "followersCount": 308,
+    "followsCount": 753,
+    "postsCount": 677
+}
